@@ -7,4 +7,4 @@ def funt(a):
                                         print("Give me a list")
                                                 return None
                                             funt(a)
-                                            print(a)
+                                            
